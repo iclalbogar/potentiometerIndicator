@@ -1,0 +1,4 @@
+../Core/Src/potentiometerIndicato.c:7:16:ComputeChecksum	2
+../Core/Src/potentiometerIndicato.c:17:6:PotIndicator_Init	1
+../Core/Src/potentiometerIndicato.c:24:10:PotIndicator_GetRawValue	1
+../Core/Src/potentiometerIndicato.c:29:6:PotIndicator_SendValue	1

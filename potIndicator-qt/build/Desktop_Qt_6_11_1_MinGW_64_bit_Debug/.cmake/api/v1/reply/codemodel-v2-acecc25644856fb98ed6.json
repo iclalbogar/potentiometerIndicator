@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-95abcffe3b3074853c52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "potIndicator-qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "potIndicator-qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-potIndicator-qt-Debug-44f5c350251bc8a931c3.json",
+					"name" : "potIndicator-qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "potIndicator-qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-potIndicator-qt_autogen-Debug-ac80ec73dbe763fd77e0.json",
+					"name" : "potIndicator-qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "potIndicator-qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-potIndicator-qt_autogen_timestamp_deps-Debug-7812ac50b75f065c46e3.json",
+					"name" : "potIndicator-qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/iclal/Projects/potIndicator-qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/iclal/Projects/potIndicator-qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

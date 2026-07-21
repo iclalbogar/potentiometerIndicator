@@ -1,0 +1,2 @@
+../Core/Src/uart_link.c:5:6:UartLink_Init	1
+../Core/Src/uart_link.c:10:6:UartLink_Send	1
