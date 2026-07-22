@@ -1,9 +1,0 @@
-# ninja log v7
-4	525	8063599730072583	potIndicator-qt_autogen/timestamp	6580de1731907576
-4	525	8063599730072583	potIndicator-qt_autogen/mocs_compilation.cpp	6580de1731907576
-4	525	8063599730072583	C:/Users/iclal/Projects/potIndicator-qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/potIndicator-qt_autogen/timestamp	6580de1731907576
-4	525	8063599730072583	C:/Users/iclal/Projects/potIndicator-qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/potIndicator-qt_autogen/mocs_compilation.cpp	6580de1731907576
-529	1797	8063599730801931	CMakeFiles/potIndicator-qt.dir/potIndicator-qt_autogen/mocs_compilation.cpp.obj	a44bd68b7cf57cda
-532	1812	8063599730832366	CMakeFiles/potIndicator-qt.dir/main.cpp.obj	210732b1937d0a62
-535	1862	8063599730854744	CMakeFiles/potIndicator-qt.dir/mainwindow.cpp.obj	f5db3db9ee837acf
-1862	2029	8063599744136872	potIndicator-qt.exe	d74bf80c73689720
